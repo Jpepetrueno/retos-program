@@ -146,3 +146,36 @@ Reto #13: Adivina la palabra
  * - La palabra debe ocultar de forma aleatoria letras, y nunca puede comenzar ocultando más del 60%
  * - Puedes utilizar las palabras que quieras y el número de intentos que consideres
  */
+
+
+Reto #14: Octal y Hexadecimal
+/*
+ * Crea una función en python que reciba un número decimal y lo trasforme a Octal y Hexadecimal.
+ * - No está permitido usar funciones propias del lenguaje de programación que realicen esas operaciones directamente.
+ */
+
+
+Reto #15: Aurebesh
+/*
+ * Crea una función que sea capaz de transformar Español al lenguaje básico del universo Star Wars: el "Aurebesh".
+ * - Puedes dejar sin transformar los caracteres que no existan en "Aurebesh".
+ * - También tiene que ser capaz de traducir en sentido contrario.
+ * ¡Que la fuerza os acompañe!
+
+
+
+*Reto #16: La escalera/
+/*
+ * Crea una función que dibuje una escalera según su número de escalones.
+ * - Si el número es positivo, será ascendente de izquiera a derecha.
+ * - Si el número es negativo, será descendente de izquiera a derecha.
+ * - Si el número es cero, se dibujarán dos guiones bajos (__).
+ * 
+ * Ejemplo: 4
+ *         _
+ *       _|       
+ *     _|
+ *   _|
+ * _|
+ * 
+ */
