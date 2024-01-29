@@ -3,7 +3,7 @@ import os
 
 
 def guess_word():
-    with open("./animales.txt", "r", encoding="utf-8") as f:
+    with open("./weekdays.txt", "r", encoding="utf-8") as f:
         words = [line.strip().lower() for line in f]
     word = random.choice(words)
     hidden_word = hide_word(word)

@@ -179,3 +179,40 @@ Reto #15: Aurebesh
  * _|
  * 
  */
+
+
+Reto #17: Git y GitHub
+ * Crea un programa que lea los últimos 10 commits de este repositorio y muestre:
+ * - Hash
+ * - Autor
+ * - Mensaje
+ * - Fecha y hora
+ *
+ * Ejemplo de salida:
+* Commit 1 (el más reciente) | 12345A | MoureDev | Este es un commit | 24/04/2023 21:00
+
+
+Reto #18: Web scraping
+/*
+ * El día 128 del año celebramos en la comunidad el "Hola Mundo day"
+ * Vamos a hacer "web scraping" sobre su sitio web: https://holamundo.day
+ *
+ * Crea un programa que se conecte a la web del evento e imprima únicamente la agenda de eventos
+ * del día 8. Mostrando hora e información de cada uno.
+ * Ejemplo: "16:00 | Bienvenida"
+ *
+ * Se permite utilizar librerías que nos faciliten esta tarea.
+ *
+ */
+
+
+Reto #19: Análisis de texto
+/*
+ * Crea un programa que analice texto y obtenga:
+ * - Número total de palabras.
+ * - Longitud media de las palabras.
+ * - Número de oraciones del texto (cada vez que aparecen un punto).
+ * - Encuentre la palabra más larga.
+ *
+ * Todo esto utilizando un único bucle.
+ */
